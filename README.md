@@ -1,1 +1,1 @@
-# SimplRandomForest
+# SimpleRandomForest
